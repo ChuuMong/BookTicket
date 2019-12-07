@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BookTicket</string>
+
+    <string name="network_error_retry">네트워크 통신중 에러가 발생하였습니다.\n다시 시도하시겠습니까?</string>
+
+    <string name="retry">재시도</string>
+
+    <string name="choice_ticket_one_time_ticket">1회권(18,000/1회)</string>
+    <string name="choice_ticket_three_time_ticket">3회권(12,667원/1회)</string>
+    <string name="choice_ticket_multiple_time_ticket">다회권(4회 이상, 1회당 11,000원)</string>
+
+    <string name="choice_time_course_select_time_and_course">탑승할 시간과\n코스를 선택하세요</string>
+
+    <string name="choice_time_course_ticket_clearance">여유</string>
+    <string name="choice_time_course_ticket_normal">보통</string>
+    <string name="choice_time_course_ticket_confusion">혼잡</string>
+    <string name="choice_time_course_ticket_sold_out">여유</string>
+    <string name="prev">이전</string>
+    <string name="next">다음</string>
+    <string name="choice_time_course_select_time">시간대를 선택하세요</string>
+    <string name="choice_time_course_one_person_pay_amount">1인당 결제 예정금액</string>
+    <string name="choice_time_course_select_ticket_count_format">(%s매)</string>
+
+</resources>

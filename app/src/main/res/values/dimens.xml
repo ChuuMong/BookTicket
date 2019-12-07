@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="choice_time_course_rv_margin_bottom">50dp</dimen>
+    <dimen name="choice_time_course_select_course_rv_margin_bottom">100dp</dimen>
+
+</resources>
